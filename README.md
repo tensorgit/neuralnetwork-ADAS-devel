@@ -1,5 +1,5 @@
 # Capstone Project README
-## Jasvir Dhillon. June 2021.
+## Jasvir Dhillon. June-July 2021.
 Title: Predicting autonomous vehicle straight line collision attributes with detected traffic object and recommending vehicle features to prevent collision
 ### Project overview
 
