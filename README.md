@@ -20,7 +20,6 @@ All development work has been conducted with AWS. Data analysis has revealed int
 
 > /source_tfkeras/: includes the train.py training script for the neural network model used by the AWS SageMaker estimator
 > /data/: contains training and test files along with dataframe files stored for later use on demand
-> edgecase_data_processing.html: Contains the visualization of all the plots derived during the Exploratory Data analysis
 > Visualizing_model_predictions.html: Contains investigative visualization plots with model predictions
 
 #### Libraries used
