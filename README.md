@@ -19,7 +19,9 @@ This machine learning project has successfully implemented the following steps
 All development work has been conducted with AWS. Data analysis has revealed interesting relationships between the various feature and output variables. The final refined neural network model is a much-improved version of the benchmark model with remarkably high accuracy, precision and recall (the metrics) proven on test and validation data
 
 > /source_tfkeras/: includes the train.py training script for the neural network model used by the AWS SageMaker estimator
+
 > /data/: contains training and test files along with dataframe files stored for later use on demand
+
 > Visualizing_model_predictions.html: Contains investigative visualization plots with model predictions
 
 #### Libraries used
