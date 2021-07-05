@@ -60,7 +60,5 @@ Each test variation has two corresponding data files:
 -       A '.dat' file which provides 3 channels: 'Time', 'Collision' and 'Distance to collision'. The required data has been logged only for the last few sections of the simulation where necessary, to minimize file storage space
 -       A '.dat.info' file which contains the unique feature values for that particular variation
 
-Please refer to the 'Datasets and inputs' section of the 'proposal.pdf' for details on the content of the data files.
-
 [link]: <https://www.dropbox.com/s/j9jrkkaptkygsb5/edge-case_dataset.zip?dl=0>
 [link2]: <https://www.dropbox.com/s/hz0kia92aiwawan/new_edge-case_dataset.zip?dl=0>
